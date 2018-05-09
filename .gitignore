@@ -1,7 +1,0 @@
-.idea
-*.iml
-Partiel*/*.iml
-Partiel*/target
-
-TD*/target
-TD*/*.iml
